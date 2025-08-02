@@ -9,3 +9,4 @@ D:\GitHubProject\ASP.Net-API\Talabat.APIs-Soluotion\Talabat.Core\obj\Debug\net6.
 D:\GitHubProject\ASP.Net-API\Talabat.APIs-Soluotion\Talabat.Core\obj\Debug\net6.0\refint\Talabat.Core.dll
 D:\GitHubProject\ASP.Net-API\Talabat.APIs-Soluotion\Talabat.Core\obj\Debug\net6.0\Talabat.Core.pdb
 D:\GitHubProject\ASP.Net-API\Talabat.APIs-Soluotion\Talabat.Core\obj\Debug\net6.0\ref\Talabat.Core.dll
+D:\GitHubProject\ASP.Net-API\Talabat.APIs-Soluotion\Talabat.Core\obj\Debug\net6.0\Talabat.Core.sourcelink.json

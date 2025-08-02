@@ -13,3 +13,4 @@ D:\GitHubProject\ASP.Net-API\Talabat.APIs-Soluotion\Talabat.Repository\obj\Debug
 D:\GitHubProject\ASP.Net-API\Talabat.APIs-Soluotion\Talabat.Repository\obj\Debug\net6.0\refint\Talabat.Repository.dll
 D:\GitHubProject\ASP.Net-API\Talabat.APIs-Soluotion\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.pdb
 D:\GitHubProject\ASP.Net-API\Talabat.APIs-Soluotion\Talabat.Repository\obj\Debug\net6.0\ref\Talabat.Repository.dll
+D:\GitHubProject\ASP.Net-API\Talabat.APIs-Soluotion\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.sourcelink.json

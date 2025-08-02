@@ -109,24 +109,34 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "sort",
+        "Name": "Sort",
         "Type": "System.String",
         "IsRequired": false
       },
       {
-        "Name": "productId",
+        "Name": "BroductId",
         "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
         "IsRequired": false
       },
       {
-        "Name": "typeId",
+        "Name": "TypeId",
         "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageIndex",
+        "Type": "System.Int32",
         "IsRequired": false
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "Talabat.APIs.DTOs.ProductToReturnDTOs",
+        "Type": "Talabat.APIs.Helpers.Pagination\u00601[[Talabat.APIs.DTOs.ProductToReturnDTOs, Talabat.APIs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",

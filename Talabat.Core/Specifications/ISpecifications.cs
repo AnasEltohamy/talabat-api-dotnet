@@ -18,6 +18,11 @@ namespace Talabat.Core.Specifications
         
         public Expression<Func<T ,object>> orderByDesc { get; set; }
 
+        public int Skip { get; set; }
+
+        public int Tack { get; set; }
+
+        public bool IsPagination { get; set; }
 
     }
 }

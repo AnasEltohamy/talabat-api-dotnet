@@ -84,3 +84,4 @@ D:\GitHubProject\ASP.Net-API\Talabat.APIs-Soluotion\Talabat.APIs\obj\Debug\net6.
 D:\GitHubProject\ASP.Net-API\Talabat.APIs-Soluotion\Talabat.APIs\obj\Debug\net6.0\ref\Talabat.APIs.dll
 D:\GitHubProject\ASP.Net-API\Talabat.APIs-Soluotion\Talabat.APIs\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 D:\GitHubProject\ASP.Net-API\Talabat.APIs-Soluotion\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.staticwebassets.runtime.json
+D:\GitHubProject\ASP.Net-API\Talabat.APIs-Soluotion\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.sourcelink.json

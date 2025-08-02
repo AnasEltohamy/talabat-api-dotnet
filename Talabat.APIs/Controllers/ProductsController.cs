@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Talabat.APIs.DTOs;
 using Talabat.APIs.Errors;
+using Talabat.APIs.Helpers;
 using Talabat.Core.Entites;
 using Talabat.Core.IRepo;
 using Talabat.Core.Specifications;
@@ -22,20 +23,22 @@ namespace Talabat.APIs.Controllers
             this.mapper = mapper;
         }
         [HttpGet("GetProducts_WithSpecifications")]
-        [ProducesResponseType(typeof(ProductToReturnDTOs) , 200)]
+        [ProducesResponseType(typeof(Pagination<ProductToReturnDTOs>) , 200)]
         [ProducesResponseType(typeof(ApiResponse), 404 )]
-        public async Task<ActionResult<IReadOnlyList<ProductToReturnDTOs>>> GetProducts(string? sort ,int? productId , int? typeId)
+        public async Task<ActionResult<Pagination<ProductToReturnDTOs>>> GetProducts([FromQuery] ProductSpecParams Params )
         {
-            var spec = new ProductWithTypeAndBrandSpecification(sort, productId , typeId);
-            var products = await pro.GetAllWithSpecAsync(spec);
-            
+            var spec = new ProductWithTypeAndBrandSpecification(Params);
+            var products = await pro.GetAllWithSpecAsync(spec);  
             var afterMapping = mapper.Map<IReadOnlyList<Product> , IReadOnlyList<ProductToReturnDTOs>>(products);
-            return Ok(afterMapping);
+            
+            var CountOfProduct= await pro.GetCountWithSpecAsync(new ProductWithFiltrationForCountAsync(Params));
+            var returnProducts = new Pagination<ProductToReturnDTOs>(Params.PageSize, Params.pageIndex, afterMapping , CountOfProduct);
+            return Ok(returnProducts);
         
         }
 
         [HttpGet("GetProductById_WithSpecifications/id")]
-        [ProducesResponseType(typeof(ProductToReturnDTOs), 200) ]
+        [ProducesResponseType(typeof(ProductToReturnDTOs), 200)]
         [ProducesResponseType(typeof(ApiResponse) , 404)]
         public async Task<ActionResult<ProductToReturnDTOs>> GetProductById(int id)
         {

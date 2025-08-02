@@ -3,20 +3,27 @@
   "WorkspaceRootPath": "D:\\GitHubProject\\ASP.Net-API\\Talabat.APIs-Soluotion\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F649639B-34B1-4D68-8693-7B15B273F632}|Talabat.Core\\Talabat.Core.csproj|d:\\githubproject\\asp.net-api\\talabat.apis-soluotion\\talabat.core\\specifications\\productwithtypeandbrandspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F649639B-34B1-4D68-8693-7B15B273F632}|Talabat.Core\\Talabat.Core.csproj|solutionrelative:talabat.core\\specifications\\productwithtypeandbrandspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBB85115-6EE3-4037-AEF7-9CD6A43B9F31}|Talabat.Repository\\Talabat.Repository.csproj|d:\\githubproject\\asp.net-api\\talabat.apis-soluotion\\talabat.repository\\specificationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBB85115-6EE3-4037-AEF7-9CD6A43B9F31}|Talabat.Repository\\Talabat.Repository.csproj|solutionrelative:talabat.repository\\specificationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4799C928-680F-4E81-8DF8-6D722DB4292B}|Talabat.APIs\\Talabat.APIs.csproj|d:\\githubproject\\asp.net-api\\talabat.apis-soluotion\\talabat.apis\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4799C928-680F-4E81-8DF8-6D722DB4292B}|Talabat.APIs\\Talabat.APIs.csproj|solutionrelative:talabat.apis\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F649639B-34B1-4D68-8693-7B15B273F632}|Talabat.Core\\Talabat.Core.csproj|d:\\githubproject\\asp.net-api\\talabat.apis-soluotion\\talabat.core\\specifications\\basespecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F649639B-34B1-4D68-8693-7B15B273F632}|Talabat.Core\\Talabat.Core.csproj|solutionrelative:talabat.core\\specifications\\basespecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/./Talabat.API.DB/True/SqlTable/dbo.Products.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4799C928-680F-4E81-8DF8-6D722DB4292B}|Talabat.APIs\\Talabat.APIs.csproj|d:\\githubproject\\asp.net-api\\talabat.apis-soluotion\\talabat.apis\\helpers\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4799C928-680F-4E81-8DF8-6D722DB4292B}|Talabat.APIs\\Talabat.APIs.csproj|solutionrelative:talabat.apis\\helpers\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F649639B-34B1-4D68-8693-7B15B273F632}|Talabat.Core\\Talabat.Core.csproj|d:\\githubproject\\asp.net-api\\talabat.apis-soluotion\\talabat.core\\irepo\\iginaricrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F649639B-34B1-4D68-8693-7B15B273F632}|Talabat.Core\\Talabat.Core.csproj|solutionrelative:talabat.core\\irepo\\iginaricrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F649639B-34B1-4D68-8693-7B15B273F632}|Talabat.Core\\Talabat.Core.csproj|d:\\githubproject\\asp.net-api\\talabat.apis-soluotion\\talabat.core\\specifications\\productwithfiltrationforcountasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F649639B-34B1-4D68-8693-7B15B273F632}|Talabat.Core\\Talabat.Core.csproj|solutionrelative:talabat.core\\specifications\\productwithfiltrationforcountasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB85115-6EE3-4037-AEF7-9CD6A43B9F31}|Talabat.Repository\\Talabat.Repository.csproj|d:\\githubproject\\asp.net-api\\talabat.apis-soluotion\\talabat.repository\\ginaricrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBB85115-6EE3-4037-AEF7-9CD6A43B9F31}|Talabat.Repository\\Talabat.Repository.csproj|solutionrelative:talabat.repository\\ginaricrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,62 +33,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.Products [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/./Talabat.API.DB/True/SqlTable/dbo.Products.sql",
+              "ToolTip": "dbo.Products [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-02T08:44:10.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductWithFiltrationForCountAsync.cs",
+              "DocumentMoniker": "D:\\GitHubProject\\ASP.Net-API\\Talabat.APIs-Soluotion\\Talabat.Core\\Specifications\\ProductWithFiltrationForCountAsync.cs",
+              "RelativeDocumentMoniker": "Talabat.Core\\Specifications\\ProductWithFiltrationForCountAsync.cs",
+              "ToolTip": "D:\\GitHubProject\\ASP.Net-API\\Talabat.APIs-Soluotion\\Talabat.Core\\Specifications\\ProductWithFiltrationForCountAsync.cs",
+              "RelativeToolTip": "Talabat.Core\\Specifications\\ProductWithFiltrationForCountAsync.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T08:32:55.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GinaricRepository.cs",
+              "DocumentMoniker": "D:\\GitHubProject\\ASP.Net-API\\Talabat.APIs-Soluotion\\Talabat.Repository\\GinaricRepository.cs",
+              "RelativeDocumentMoniker": "Talabat.Repository\\GinaricRepository.cs",
+              "ToolTip": "D:\\GitHubProject\\ASP.Net-API\\Talabat.APIs-Soluotion\\Talabat.Repository\\GinaricRepository.cs",
+              "RelativeToolTip": "Talabat.Repository\\GinaricRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAEwDkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T08:26:22.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IGinaricRepository.cs",
+              "DocumentMoniker": "D:\\GitHubProject\\ASP.Net-API\\Talabat.APIs-Soluotion\\Talabat.Core\\IRepo\\IGinaricRepository.cs",
+              "RelativeDocumentMoniker": "Talabat.Core\\IRepo\\IGinaricRepository.cs",
+              "ToolTip": "D:\\GitHubProject\\ASP.Net-API\\Talabat.APIs-Soluotion\\Talabat.Core\\IRepo\\IGinaricRepository.cs",
+              "RelativeToolTip": "Talabat.Core\\IRepo\\IGinaricRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswBEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T08:24:52.213Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BaseSpecifications.cs",
-              "DocumentMoniker": "D:\\GitHubProject\\ASP.Net-API\\Talabat.APIs-Soluotion\\Talabat.Core\\Specifications\\BaseSpecifications.cs",
-              "RelativeDocumentMoniker": "Talabat.Core\\Specifications\\BaseSpecifications.cs",
-              "ToolTip": "D:\\GitHubProject\\ASP.Net-API\\Talabat.APIs-Soluotion\\Talabat.Core\\Specifications\\BaseSpecifications.cs",
-              "RelativeToolTip": "Talabat.Core\\Specifications\\BaseSpecifications.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Pagination.cs",
+              "DocumentMoniker": "D:\\GitHubProject\\ASP.Net-API\\Talabat.APIs-Soluotion\\Talabat.APIs\\Helpers\\Pagination.cs",
+              "RelativeDocumentMoniker": "Talabat.APIs\\Helpers\\Pagination.cs",
+              "ToolTip": "D:\\GitHubProject\\ASP.Net-API\\Talabat.APIs-Soluotion\\Talabat.APIs\\Helpers\\Pagination.cs",
+              "RelativeToolTip": "Talabat.APIs\\Helpers\\Pagination.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAnwBAAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T10:26:02.022Z",
+              "WhenOpened": "2025-08-02T06:47:39.087Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductWithTypeAndBrandSpecification.cs",
-              "DocumentMoniker": "D:\\GitHubProject\\ASP.Net-API\\Talabat.APIs-Soluotion\\Talabat.Core\\Specifications\\ProductWithTypeAndBrandSpecification.cs",
-              "RelativeDocumentMoniker": "Talabat.Core\\Specifications\\ProductWithTypeAndBrandSpecification.cs",
-              "ToolTip": "D:\\GitHubProject\\ASP.Net-API\\Talabat.APIs-Soluotion\\Talabat.Core\\Specifications\\ProductWithTypeAndBrandSpecification.cs \u2B24",
-              "RelativeToolTip": "Talabat.Core\\Specifications\\ProductWithTypeAndBrandSpecification.cs \u2B24",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T04:40:13.918Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SpecificationEvaluator.cs",
-              "DocumentMoniker": "D:\\GitHubProject\\ASP.Net-API\\Talabat.APIs-Soluotion\\Talabat.Repository\\SpecificationEvaluator.cs",
-              "RelativeDocumentMoniker": "Talabat.Repository\\SpecificationEvaluator.cs",
-              "ToolTip": "D:\\GitHubProject\\ASP.Net-API\\Talabat.APIs-Soluotion\\Talabat.Repository\\SpecificationEvaluator.cs",
-              "RelativeToolTip": "Talabat.Repository\\SpecificationEvaluator.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAswBYAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T04:30:36.463Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "D:\\GitHubProject\\ASP.Net-API\\Talabat.APIs-Soluotion\\Talabat.APIs\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Talabat.APIs\\Controllers\\ProductsController.cs",
               "ToolTip": "D:\\GitHubProject\\ASP.Net-API\\Talabat.APIs-Soluotion\\Talabat.APIs\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "Talabat.APIs\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAIAzwB0AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwCEAAABmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T04:29:57.919Z",
+              "WhenOpened": "2025-08-01T02:43:07.049Z",
               "EditorCaption": ""
             }
           ]

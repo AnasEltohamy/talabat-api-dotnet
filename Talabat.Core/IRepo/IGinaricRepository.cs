@@ -14,5 +14,7 @@ namespace Talabat.Core.IRepo
         Task<T> GetByIdAsync(int id);
         Task<IReadOnlyList<T>> GetAllWithSpecAsync(ISpecifications<T> spec);
         Task<T> GetByIdWithSpecAsync(ISpecifications<T> spec);
+
+        Task<int> GetCountWithSpecAsync(ISpecifications<T> Spec);
     }
 }
